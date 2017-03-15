@@ -1,4 +1,4 @@
-#Sunshine 2.0 
+# Sunshine 2.0 
 
 A light weight weather app that synchronizes weather information from the OpenWeatherMap API.  Made during [ Udacity Advanced Android course](https://www.udacity.com/course/ud855).
 
